@@ -21,4 +21,5 @@ DATE PUBLISHED:
 BASIC INSTRUCTIONS ON HOW TO USE THE PROGRAM:
 1. The user will automatically be asked to choose a number from 1 through 7 of the language that they are fluent in.
   - The user will press then press enter to proceed to the next question.
+2. The user then will be asked to choose a number from 1 through 7 of the area that they are specialized in.
   - 
