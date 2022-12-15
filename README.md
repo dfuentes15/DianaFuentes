@@ -1,6 +1,6 @@
 TITLE:
-University of California Riverside: 
-Doctors Without Borders Program
+University of California Riverside
+(Doctors Without Borders Program)
 
 
 PROJECT GENERAL DESCRIPTION:
