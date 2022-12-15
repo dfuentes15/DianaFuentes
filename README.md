@@ -18,3 +18,4 @@ DATE PUBLISHED:
 
 
 BASIC INSTRUCTIONS ON HOW TO USE THE PROGRAM:
+The user will automatically be asked to choose a number from 
