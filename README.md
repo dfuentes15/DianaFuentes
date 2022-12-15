@@ -19,8 +19,8 @@ DATE PUBLISHED:
 
 
 BASIC INSTRUCTIONS ON HOW TO USE THE PROGRAM:
-1. The user will automatically be asked to choose a number from 1 through 7 of the language that they are fluent in.
+1. The user will automatically be asked to choose a number from 1 through 7 of the language that they are fluent in and they will need to type in the number.
   - The user will press then press enter to proceed to the next question.
-2. The user then will be asked to choose a number from 1 through 6 of the area that they are specialized in.
+2. The user then will be asked to choose a number from 1 through 6 of the area that they are specialized in and they will need to type in the number.
   - The user will press enter again to proceed to the next.
 3. Automatically the probability of the country will display at the bottom.
